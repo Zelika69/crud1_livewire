@@ -1,7 +1,5 @@
 <?php
-
 namespace App\Livewire\Products;
-
 use Livewire\Component;
 use Livewire\WithPagination;
 use App\Models\Product;
